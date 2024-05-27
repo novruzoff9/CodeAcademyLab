@@ -1,0 +1,15 @@
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\bin\Debug\net8.0\ArrayFuncs.exe
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\bin\Debug\net8.0\ArrayFuncs.deps.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\bin\Debug\net8.0\ArrayFuncs.runtimeconfig.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\bin\Debug\net8.0\ArrayFuncs.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\bin\Debug\net8.0\ArrayFuncs.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\obj\Debug\net8.0\ArrayFuncs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\obj\Debug\net8.0\ArrayFuncs.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\obj\Debug\net8.0\ArrayFuncs.AssemblyInfo.cs
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\obj\Debug\net8.0\ArrayFuncs.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\obj\Debug\net8.0\ArrayFuncs.sourcelink.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\obj\Debug\net8.0\ArrayFuncs.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\obj\Debug\net8.0\refint\ArrayFuncs.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\obj\Debug\net8.0\ArrayFuncs.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\obj\Debug\net8.0\ArrayFuncs.genruntimeconfig.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ArrayFuncs\ArrayFuncs\obj\Debug\net8.0\ref\ArrayFuncs.dll

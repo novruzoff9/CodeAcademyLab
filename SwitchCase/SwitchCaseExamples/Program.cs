@@ -19,7 +19,7 @@
 
         static void WhichSeason(string season)
         {
-            string result = "";
+            string result = string.Empty;
             switch (season)
             {
                 case "Spring":
@@ -40,7 +40,7 @@
 
         static void WhichSeasonExp(string season)
         {
-            string result = "";
+            string result = string.Empty;
             string res = season switch
             {
                 "Spring" => "Yaz",
