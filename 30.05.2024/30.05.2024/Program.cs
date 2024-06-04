@@ -17,7 +17,7 @@ void minandMax()
         if (arr[i] > max) max = arr[i];
     }
 
-    Console.WriteLine(min + " " + max);
+    Console.WriteLine("En küçük eleman: " + min + " En büyük eleman: " + max);
 }
 
 void OddandEvens()
@@ -35,12 +35,12 @@ void OddandEvens()
         if (arr[i] % 2 == 1) odds += 1;
     }
 
-    Console.WriteLine("Tekler" + odds + " Cutler" + evens);
+    Console.WriteLine("Tekler: " + odds + " Çiftler: " + evens);
 }
 
 void sumOfElements()
 {
-    Console.WriteLine("ededi daxil edin daxil edin: ");
+    Console.WriteLine("ededi daxil edin: ");
     string n = Console.ReadLine();
     int sum = 0;
     for (int i = 0; i < n.Length; i++)
@@ -48,7 +48,7 @@ void sumOfElements()
         int a = Convert.ToInt32(n[i]);
         sum += a;
     }
-    Console.WriteLine(sum);
+    Console.WriteLine("Ededin reqemleri cemi : " + sum);
 }
 
 void DrawSquare()
@@ -96,11 +96,13 @@ void SquarePerimeter()
 
 void MultiplySquare()
 {
-
+    Console.WriteLine("Çarpım tablosunun baslangıç değerini giriniz: ");
+    int n = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine("Çarpım tablosunun bitiş değerini giriniz: ");
     int x = Convert.ToInt32(Console.ReadLine());
-    for (int i = 0; i < x; i++)
+    for (int i = n; i <= x; i++)
     {
-        for (int j = 0; j < x; j++)
+        for (int j = n; j <= x; j++)
         {
             Console.WriteLine(i + " * " + j + " = " + i * j);
         }
@@ -122,6 +124,7 @@ void FindRandom()
         else if (i == 2)
         {
             Console.WriteLine("Haqqiniz bitdi!");
+            Thread.Sleep(1000);
         }
         else
         {
@@ -163,9 +166,8 @@ void oddandEvenarrs()
     {
         Console.WriteLine("Dizinin elemanini girin ");
         arr[i] = Convert.ToInt32(Console.ReadLine());
-
     }
-    foreach (var item in arr)
+    foreach (int item in arr)
     {
         if (item % 2 == 0)
         {
@@ -180,19 +182,20 @@ void oddandEvenarrs()
     }
 
     Console.WriteLine("Tek ededler");
-    foreach (var item in odds)
+    foreach (int item in odds)
     {
         Console.Write(item + " ");
-        Console.WriteLine();
-        Console.WriteLine("Elementlerin cemi {}-dir", odds.Sum());
     }
+    Console.WriteLine();
+    Console.WriteLine("Elementlerin cemi {0}-dir", odds.Sum());
+
     Console.WriteLine("Cut ededler");
-    foreach (var item in evens)
+    foreach (int item in evens)
     {
         Console.Write(item + " ");
-        Console.WriteLine();
-        Console.WriteLine("Elementlerin cemi {}-dir", odds.Sum());
     }
+    Console.WriteLine();
+    Console.WriteLine("Elementlerin cemi {0}-dir", evens.Sum());
 
 }
 #endregion
@@ -240,11 +243,15 @@ void CoorectLogin()
     string loginpass = "";
     do
     {
-        Console.WriteLine("Username daxkil edin: ");
+        Console.WriteLine("Username daxil edin: ");
         loginuser = Console.ReadLine();
-        Console.WriteLine("Password daxkil edin: ");
+    } while (loginuser != username);
+
+    do
+    {
+        Console.WriteLine("Password daxil edin: ");
         loginpass = Console.ReadLine();
-    } while (loginpass != password && loginuser != username);
+    } while (loginpass != password);
 
     Console.WriteLine("Tebrikler ugurla daxil oldunuz!");
 }
