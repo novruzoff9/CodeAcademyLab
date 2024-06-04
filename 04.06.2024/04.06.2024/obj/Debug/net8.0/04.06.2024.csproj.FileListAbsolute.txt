@@ -1,0 +1,15 @@
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\bin\Debug\net8.0\04.06.2024.exe
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\bin\Debug\net8.0\04.06.2024.deps.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\bin\Debug\net8.0\04.06.2024.runtimeconfig.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\bin\Debug\net8.0\04.06.2024.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\bin\Debug\net8.0\04.06.2024.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\obj\Debug\net8.0\04.06.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\obj\Debug\net8.0\04.06.2024.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\obj\Debug\net8.0\04.06.2024.AssemblyInfo.cs
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\obj\Debug\net8.0\04.06.2024.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\obj\Debug\net8.0\04.06.2024.sourcelink.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\obj\Debug\net8.0\04.06.2024.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\obj\Debug\net8.0\refint\04.06.2024.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\obj\Debug\net8.0\04.06.2024.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\obj\Debug\net8.0\04.06.2024.genruntimeconfig.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\04.06.2024\obj\Debug\net8.0\ref\04.06.2024.dll

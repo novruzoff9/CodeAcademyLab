@@ -13,7 +13,7 @@ domain = clearText(domain);
 
 firstname = Capitalize(firstname);
 lastname = DoUpper(lastname);
-lastname = Replace(lastname);
+lastname = Replace(lastname, 'A', 'E');
 
 
 string email = createEmail(firstname, lastname, domain);
@@ -59,14 +59,15 @@ string DoUpper(string text)
     return newstr;
 }
 
-string Replace(string text)
+string Replace(string text, char oldsymbol, char newsymbol)
 {
     string newstr = String.Empty;
+
     for (int i = 0; i < text.Length; i++)
     {
-        if (text[i] == 'A')
+        if (text[i] == oldsymbol)
         {
-            newstr += 'E';
+            newstr += newsymbol;
         }
         else
         {

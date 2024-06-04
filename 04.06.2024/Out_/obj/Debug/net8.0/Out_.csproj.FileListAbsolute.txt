@@ -1,0 +1,15 @@
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\bin\Debug\net8.0\Out_.exe
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\bin\Debug\net8.0\Out_.deps.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\bin\Debug\net8.0\Out_.runtimeconfig.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\bin\Debug\net8.0\Out_.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\bin\Debug\net8.0\Out_.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\obj\Debug\net8.0\Out_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\obj\Debug\net8.0\Out_.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\obj\Debug\net8.0\Out_.AssemblyInfo.cs
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\obj\Debug\net8.0\Out_.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\obj\Debug\net8.0\Out_.sourcelink.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\obj\Debug\net8.0\Out_.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\obj\Debug\net8.0\refint\Out_.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\obj\Debug\net8.0\Out_.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\obj\Debug\net8.0\Out_.genruntimeconfig.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\04.06.2024\Out_\obj\Debug\net8.0\ref\Out_.dll

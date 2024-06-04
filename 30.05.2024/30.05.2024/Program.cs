@@ -1,5 +1,5 @@
 ﻿
-randomizer();
+oddandEvenarrs();
 
 #region ForTasks
 void minandMax()
