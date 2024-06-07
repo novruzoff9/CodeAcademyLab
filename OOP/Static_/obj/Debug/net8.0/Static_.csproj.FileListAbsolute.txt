@@ -1,0 +1,14 @@
+C:\Users\yagmurgn\source\repos\OOP\Static_\bin\Debug\net8.0\Static_.exe
+C:\Users\yagmurgn\source\repos\OOP\Static_\bin\Debug\net8.0\Static_.deps.json
+C:\Users\yagmurgn\source\repos\OOP\Static_\bin\Debug\net8.0\Static_.runtimeconfig.json
+C:\Users\yagmurgn\source\repos\OOP\Static_\bin\Debug\net8.0\Static_.dll
+C:\Users\yagmurgn\source\repos\OOP\Static_\bin\Debug\net8.0\Static_.pdb
+C:\Users\yagmurgn\source\repos\OOP\Static_\obj\Debug\net8.0\Static_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\source\repos\OOP\Static_\obj\Debug\net8.0\Static_.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\source\repos\OOP\Static_\obj\Debug\net8.0\Static_.AssemblyInfo.cs
+C:\Users\yagmurgn\source\repos\OOP\Static_\obj\Debug\net8.0\Static_.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\source\repos\OOP\Static_\obj\Debug\net8.0\Static_.dll
+C:\Users\yagmurgn\source\repos\OOP\Static_\obj\Debug\net8.0\refint\Static_.dll
+C:\Users\yagmurgn\source\repos\OOP\Static_\obj\Debug\net8.0\Static_.pdb
+C:\Users\yagmurgn\source\repos\OOP\Static_\obj\Debug\net8.0\Static_.genruntimeconfig.cache
+C:\Users\yagmurgn\source\repos\OOP\Static_\obj\Debug\net8.0\ref\Static_.dll

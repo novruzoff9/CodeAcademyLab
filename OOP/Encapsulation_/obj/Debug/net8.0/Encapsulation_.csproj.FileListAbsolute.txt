@@ -1,0 +1,14 @@
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\bin\Debug\net8.0\Encapsulation_.exe
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\bin\Debug\net8.0\Encapsulation_.deps.json
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\bin\Debug\net8.0\Encapsulation_.runtimeconfig.json
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\bin\Debug\net8.0\Encapsulation_.dll
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\bin\Debug\net8.0\Encapsulation_.pdb
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\obj\Debug\net8.0\Encapsulation_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\obj\Debug\net8.0\Encapsulation_.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\obj\Debug\net8.0\Encapsulation_.AssemblyInfo.cs
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\obj\Debug\net8.0\Encapsulation_.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\obj\Debug\net8.0\Encapsulation_.dll
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\obj\Debug\net8.0\refint\Encapsulation_.dll
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\obj\Debug\net8.0\Encapsulation_.pdb
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\obj\Debug\net8.0\Encapsulation_.genruntimeconfig.cache
+C:\Users\yagmurgn\source\repos\OOP\Encapsulation_\obj\Debug\net8.0\ref\Encapsulation_.dll

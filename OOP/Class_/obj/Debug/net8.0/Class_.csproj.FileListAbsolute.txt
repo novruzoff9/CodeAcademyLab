@@ -1,0 +1,14 @@
+C:\Users\yagmurgn\source\repos\OOP\Class_\bin\Debug\net8.0\Class_.exe
+C:\Users\yagmurgn\source\repos\OOP\Class_\bin\Debug\net8.0\Class_.deps.json
+C:\Users\yagmurgn\source\repos\OOP\Class_\bin\Debug\net8.0\Class_.runtimeconfig.json
+C:\Users\yagmurgn\source\repos\OOP\Class_\bin\Debug\net8.0\Class_.dll
+C:\Users\yagmurgn\source\repos\OOP\Class_\bin\Debug\net8.0\Class_.pdb
+C:\Users\yagmurgn\source\repos\OOP\Class_\obj\Debug\net8.0\Class_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\source\repos\OOP\Class_\obj\Debug\net8.0\Class_.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\source\repos\OOP\Class_\obj\Debug\net8.0\Class_.AssemblyInfo.cs
+C:\Users\yagmurgn\source\repos\OOP\Class_\obj\Debug\net8.0\Class_.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\source\repos\OOP\Class_\obj\Debug\net8.0\Class_.dll
+C:\Users\yagmurgn\source\repos\OOP\Class_\obj\Debug\net8.0\refint\Class_.dll
+C:\Users\yagmurgn\source\repos\OOP\Class_\obj\Debug\net8.0\Class_.pdb
+C:\Users\yagmurgn\source\repos\OOP\Class_\obj\Debug\net8.0\Class_.genruntimeconfig.cache
+C:\Users\yagmurgn\source\repos\OOP\Class_\obj\Debug\net8.0\ref\Class_.dll
