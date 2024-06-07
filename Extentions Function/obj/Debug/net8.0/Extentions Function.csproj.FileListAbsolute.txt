@@ -1,0 +1,15 @@
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\bin\Debug\net8.0\Extentions Function.exe
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\bin\Debug\net8.0\Extentions Function.deps.json
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\bin\Debug\net8.0\Extentions Function.runtimeconfig.json
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\bin\Debug\net8.0\Extentions Function.dll
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\bin\Debug\net8.0\Extentions Function.pdb
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\obj\Debug\net8.0\Extentions Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\obj\Debug\net8.0\Extentions Function.AssemblyInfoInputs.cache
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\obj\Debug\net8.0\Extentions Function.AssemblyInfo.cs
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\obj\Debug\net8.0\Extentions Function.csproj.CoreCompileInputs.cache
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\obj\Debug\net8.0\Extentions Function.sourcelink.json
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\obj\Debug\net8.0\Extentions Function.dll
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\obj\Debug\net8.0\refint\Extentions Function.dll
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\obj\Debug\net8.0\Extentions Function.pdb
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\obj\Debug\net8.0\Extentions Function.genruntimeconfig.cache
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Extentions Function\obj\Debug\net8.0\ref\Extentions Function.dll
