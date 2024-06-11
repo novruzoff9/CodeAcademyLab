@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\Extentions Function\\Extentions Function.csproj",
-      "projectName": "Extentions Function",
-      "projectPath": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\Extentions Function\\Extentions Function.csproj",
+      "projectUniqueName": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\ReflectionTask_\\ReflectionTask_\\ReflectionTask_.csproj",
+      "projectName": "ReflectionTask_",
+      "projectPath": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\ReflectionTask_\\ReflectionTask_\\ReflectionTask_.csproj",
       "packagesPath": "C:\\Users\\yagmurgn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\Extentions Function\\obj\\",
+      "outputPath": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\ReflectionTask_\\ReflectionTask_\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
