@@ -1,0 +1,8 @@
+﻿BEGIN:VCARD
+VERSION:3.0
+FN:Jeannine Thöne
+N:Thöne;Jeannine;;;
+EMAIL;TYPE=INTERNET:jeannine.thone@example.com
+TEL;TYPE=WORK:0740-2318460
+ADR;TYPE=HOME;LABEL="Burg Stargard, Germany"
+END:VCARD

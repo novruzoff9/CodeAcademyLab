@@ -1,0 +1,14 @@
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\bin\Debug\net8.0\FactoryMethodMrPos.exe
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\bin\Debug\net8.0\FactoryMethodMrPos.deps.json
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\bin\Debug\net8.0\FactoryMethodMrPos.runtimeconfig.json
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\bin\Debug\net8.0\FactoryMethodMrPos.dll
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\bin\Debug\net8.0\FactoryMethodMrPos.pdb
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\obj\Debug\net8.0\FactoryMethodMrPos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\obj\Debug\net8.0\FactoryMethodMrPos.AssemblyInfoInputs.cache
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\obj\Debug\net8.0\FactoryMethodMrPos.AssemblyInfo.cs
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\obj\Debug\net8.0\FactoryMethodMrPos.csproj.CoreCompileInputs.cache
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\obj\Debug\net8.0\FactoryMethodMrPos.dll
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\obj\Debug\net8.0\refint\FactoryMethodMrPos.dll
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\obj\Debug\net8.0\FactoryMethodMrPos.pdb
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\obj\Debug\net8.0\FactoryMethodMrPos.genruntimeconfig.cache
+C:\Users\Novruzoff\source\repos\FactoryMethodMrPos\obj\Debug\net8.0\ref\FactoryMethodMrPos.dll

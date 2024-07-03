@@ -1,0 +1,8 @@
+﻿BEGIN:VCARD
+VERSION:3.0
+FN:Sam Sullivan
+N:Sullivan;Sam;;;
+EMAIL;TYPE=INTERNET:sam.sullivan@example.com
+TEL;TYPE=WORK:019467 39724
+ADR;TYPE=HOME;LABEL="Southampton, United Kingdom"
+END:VCARD

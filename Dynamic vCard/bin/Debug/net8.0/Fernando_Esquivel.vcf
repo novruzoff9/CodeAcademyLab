@@ -1,0 +1,8 @@
+﻿BEGIN:VCARD
+VERSION:3.0
+FN:Fernando Esquivel
+N:Esquivel;Fernando;;;
+EMAIL;TYPE=INTERNET:fernando.esquivel@example.com
+TEL;TYPE=WORK:(684) 097 8051
+ADR;TYPE=HOME;LABEL="San Juan del Río del Centauro, Mexico"
+END:VCARD

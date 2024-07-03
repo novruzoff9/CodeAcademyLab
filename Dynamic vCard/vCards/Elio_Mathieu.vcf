@@ -1,0 +1,8 @@
+﻿BEGIN:VCARD
+VERSION:3.0
+FN:Elio Mathieu
+N:Mathieu;Elio;;;
+EMAIL;TYPE=INTERNET:elio.mathieu@example.com
+TEL;TYPE=WORK:02-12-69-17-26
+ADR;TYPE=HOME;LABEL="Bordeaux, France"
+END:VCARD

@@ -1,0 +1,8 @@
+﻿BEGIN:VCARD
+VERSION:3.0
+FN:Paola Andre
+N:Andre;Paola;;;
+EMAIL;TYPE=INTERNET:paola.andre@example.com
+TEL;TYPE=WORK:075 534 12 90
+ADR;TYPE=HOME;LABEL="L'Isle, Switzerland"
+END:VCARD

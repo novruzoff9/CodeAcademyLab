@@ -1,0 +1,8 @@
+﻿BEGIN:VCARD
+VERSION:3.0
+FN:Kaya Polat
+N:Polat;Kaya;;;
+EMAIL;TYPE=INTERNET:kaya.polat@example.com
+TEL;TYPE=WORK:(170)-034-2167
+ADR;TYPE=HOME;LABEL="Kırıkkale, Turkey"
+END:VCARD

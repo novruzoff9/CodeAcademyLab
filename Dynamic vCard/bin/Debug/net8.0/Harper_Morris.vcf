@@ -1,0 +1,8 @@
+﻿BEGIN:VCARD
+VERSION:3.0
+FN:Harper Morris
+N:Morris;Harper;;;
+EMAIL;TYPE=INTERNET:harper.morris@example.com
+TEL;TYPE=WORK:(804)-123-5064
+ADR;TYPE=HOME;LABEL="Greymouth, New Zealand"
+END:VCARD

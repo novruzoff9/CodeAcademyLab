@@ -1,0 +1,8 @@
+﻿BEGIN:VCARD
+VERSION:3.0
+FN:Brooklyn Barnes
+N:Barnes;Brooklyn;;;
+EMAIL;TYPE=INTERNET:brooklyn.barnes@example.com
+TEL;TYPE=WORK:08-2438-2707
+ADR;TYPE=HOME;LABEL="Australian Capital Territory, Australia"
+END:VCARD
