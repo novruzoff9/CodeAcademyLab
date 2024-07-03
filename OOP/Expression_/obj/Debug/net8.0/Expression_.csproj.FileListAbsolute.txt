@@ -1,0 +1,15 @@
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\bin\Debug\net8.0\Expression_.exe
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\bin\Debug\net8.0\Expression_.deps.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\bin\Debug\net8.0\Expression_.runtimeconfig.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\bin\Debug\net8.0\Expression_.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\bin\Debug\net8.0\Expression_.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\obj\Debug\net8.0\Expression_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\obj\Debug\net8.0\Expression_.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\obj\Debug\net8.0\Expression_.AssemblyInfo.cs
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\obj\Debug\net8.0\Expression_.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\obj\Debug\net8.0\Expression_.sourcelink.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\obj\Debug\net8.0\Expression_.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\obj\Debug\net8.0\refint\Expression_.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\obj\Debug\net8.0\Expression_.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\obj\Debug\net8.0\Expression_.genruntimeconfig.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\OOP\Expression_\obj\Debug\net8.0\ref\Expression_.dll

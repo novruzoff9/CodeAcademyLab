@@ -1,0 +1,15 @@
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\bin\Debug\net8.0\ReflectionTask_.exe
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\bin\Debug\net8.0\ReflectionTask_.deps.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\bin\Debug\net8.0\ReflectionTask_.runtimeconfig.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\bin\Debug\net8.0\ReflectionTask_.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\bin\Debug\net8.0\ReflectionTask_.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\obj\Debug\net8.0\ReflectionTask_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\obj\Debug\net8.0\ReflectionTask_.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\obj\Debug\net8.0\ReflectionTask_.AssemblyInfo.cs
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\obj\Debug\net8.0\ReflectionTask_.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\obj\Debug\net8.0\ReflectionTask_.sourcelink.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\obj\Debug\net8.0\ReflectionTask_.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\obj\Debug\net8.0\refint\ReflectionTask_.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\obj\Debug\net8.0\ReflectionTask_.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\obj\Debug\net8.0\ReflectionTask_.genruntimeconfig.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\ReflectionTask_\ReflectionTask_\obj\Debug\net8.0\ref\ReflectionTask_.dll
