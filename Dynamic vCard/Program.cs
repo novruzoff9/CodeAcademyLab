@@ -66,21 +66,28 @@ public class Program
 
         foreach (var vCard in vCards)
         {
-            string vcfContent = $"BEGIN:VCARD\r\n" +
+            string vcfContent = "BEGIN:VCARD\r\n" +
                                 $"VERSION:3.0\r\n" +
                                 $"FN:{vCard.FirstName} {vCard.LastName}\r\n" +
                                 $"N:{vCard.LastName};{vCard.FirstName};;;\r\n" +
                                 $"EMAIL;TYPE=INTERNET:{vCard.Email}\r\n" +
                                 $"TEL;TYPE=WORK:{vCard.Phone}\r\n" +
                                 $"ADR;TYPE=HOME;LABEL=\"{vCard.City}, {vCard.Country}\"\r\n" +
-                                $"END:VCARD\r\n";
-
+                                "END:VCARD\r\n";
+            StringBuilder stringB = new StringBuilder();
+            stringB.Append("BEGIN:VCARD");
+            stringB.AppendLine();
+            stringB.Append("VERSION:3.0");
+            stringB.AppendLine();
+            stringB.Append($"FN:{vCard.FirstName}{vCard.LastName}");
+            stringB.AppendLine();
+            stringB.Append("END:VCARD");
 
 
             string fileName = $"{vCard.FirstName}_{vCard.LastName}.vcf";
             string filePath = Path.Combine(vCardsDirectory, fileName);
 
-            await File.WriteAllTextAsync(filePath, vcfContent, Encoding.UTF8);
+            await File.WriteAllTextAsync(filePath, vcfContent);
 
             Console.WriteLine($"Yaradılan vCard faylının ünvanı: {filePath}");
         }

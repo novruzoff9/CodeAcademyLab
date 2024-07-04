@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA.Net", "WFA.Net\WFA.Net.csproj", "{EABB65BB-6CD5-447A-BF2E-7362269800F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA", "WFA\WFA.csproj", "{9C217150-1C1E-471D-A08B-1B6FFF9AB868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABB65BB-6CD5-447A-BF2E-7362269800F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABB65BB-6CD5-447A-BF2E-7362269800F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABB65BB-6CD5-447A-BF2E-7362269800F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABB65BB-6CD5-447A-BF2E-7362269800F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C217150-1C1E-471D-A08B-1B6FFF9AB868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C217150-1C1E-471D-A08B-1B6FFF9AB868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C217150-1C1E-471D-A08B-1B6FFF9AB868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C217150-1C1E-471D-A08B-1B6FFF9AB868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C92A8BF9-EE57-4E08-9D56-7694F0978EE7}
+	EndGlobalSection
+EndGlobal

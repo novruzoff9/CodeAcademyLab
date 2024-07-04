@@ -1,0 +1,14 @@
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\bin\Debug\WFA.Net.exe.config
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\bin\Debug\WFA.Net.exe
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\bin\Debug\WFA.Net.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\bin\Debug\CircularProgressBar.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\bin\Debug\WinFormAnimation.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\bin\Debug\CircularProgressBar.xml
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\obj\Debug\WFA.Net.csproj.AssemblyReference.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\obj\Debug\WFA.Net.Form1.resources
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\obj\Debug\WFA.Net.Properties.Resources.resources
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\obj\Debug\WFA.Net.csproj.GenerateResource.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\obj\Debug\WFA.Net.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\obj\Debug\WFA.Net.csproj.Up2Date
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\obj\Debug\WFA.Net.exe
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\FirstWindowsFormsApp\WFA.Net\obj\Debug\WFA.Net.pdb

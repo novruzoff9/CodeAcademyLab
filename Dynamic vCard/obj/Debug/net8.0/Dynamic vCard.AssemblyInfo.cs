@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dynamic vCard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e619df0195169955dae50b46d1e6a69a2a53ddf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dynamic vCard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dynamic vCard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
