@@ -55,24 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yagmurgn\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Novruzoff\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\Dynamic vCard\\Dynamic vCard.csproj",
+      "projectUniqueName": "C:\\Users\\Novruzoff\\Desktop\\CodeAcademyLab\\Dynamic vCard\\Dynamic vCard.csproj",
       "projectName": "Dynamic vCard",
-      "projectPath": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\Dynamic vCard\\Dynamic vCard.csproj",
-      "packagesPath": "C:\\Users\\yagmurgn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\Dynamic vCard\\obj\\",
+      "projectPath": "C:\\Users\\Novruzoff\\Desktop\\CodeAcademyLab\\Dynamic vCard\\Dynamic vCard.csproj",
+      "packagesPath": "C:\\Users\\Novruzoff\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Novruzoff\\Desktop\\CodeAcademyLab\\Dynamic vCard\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\yagmurgn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Novruzoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -125,7 +120,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

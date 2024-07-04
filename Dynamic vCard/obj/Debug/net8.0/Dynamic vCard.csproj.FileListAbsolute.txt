@@ -33,3 +33,21 @@ C:\Users\yagmurgn\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\refint\D
 C:\Users\yagmurgn\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.pdb
 C:\Users\yagmurgn\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.genruntimeconfig.cache
 C:\Users\yagmurgn\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\ref\Dynamic vCard.dll
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\bin\Debug\net8.0\Dynamic vCard.exe
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\bin\Debug\net8.0\Dynamic vCard.deps.json
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\bin\Debug\net8.0\Dynamic vCard.runtimeconfig.json
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\bin\Debug\net8.0\Dynamic vCard.dll
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\bin\Debug\net8.0\Dynamic vCard.pdb
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.csproj.AssemblyReference.cache
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.AssemblyInfoInputs.cache
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.AssemblyInfo.cs
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.csproj.CoreCompileInputs.cache
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.sourcelink.json
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic .F7D7A5CE.Up2Date
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.dll
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\refint\Dynamic vCard.dll
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.pdb
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\Dynamic vCard.genruntimeconfig.cache
+C:\Users\Novruzoff\Desktop\CodeAcademyLab\Dynamic vCard\obj\Debug\net8.0\ref\Dynamic vCard.dll
