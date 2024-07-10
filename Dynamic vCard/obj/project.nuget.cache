@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3Adml+lu+IEpGgJMMJV6tQm2ZnteFwKgHB9kac8zT1tpCqkMTx4Ac5xD2zRSvEp4ZH5tnYjtE5O9m0qE1IxHxA==",
+  "dgSpecHash": "xgdTn+54vM8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\Dynamic vCard\\Dynamic vCard.csproj",
+  "projectFilePath": "C:\\Users\\Novruzoff\\Desktop\\CodeAcademyLab\\Dynamic vCard\\Dynamic vCard.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\yagmurgn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Novruzoff\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

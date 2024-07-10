@@ -44,12 +44,21 @@ public class Program
         using HttpClient client = new HttpClient();
         Console.WriteLine("Yaratmaq istədiyiniz istifadəçi sayını daxil edin: ");
         int count = Convert.ToInt32(Console.ReadLine());
+        while(count >= 1000)
+        {
+            Console.WriteLine("Xaiş olunur 1000-dən kiçik bir ədəd daxil edin");
+            count = Convert.ToInt32(Console.ReadLine());
+        }
         using HttpResponseMessage response = await client.GetAsync($"https://randomuser.me/api/?results={count}");
 
         var jsondata = await response.Content.ReadAsStringAsync();
 
         var vCardResult = JsonConvert.DeserializeObject<dynamic>(jsondata);
 
+        if(vCardResult.error == "Whoa, ease up there cowboy. You've requested 20000 users in the last minute. Help us keep this service free and spare some bandwidth for other users please :)")
+        {
+            Console.WriteLine("Hal-hazırda sistemdə bir sıra problemlər yaranır. Xaiş olunur biraz sonra yoxlayın");
+        }
         return vCardResult;
     }
 
