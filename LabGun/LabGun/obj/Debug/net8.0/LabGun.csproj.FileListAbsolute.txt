@@ -1,0 +1,15 @@
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\bin\Debug\net8.0\LabGun.exe
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\bin\Debug\net8.0\LabGun.deps.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\bin\Debug\net8.0\LabGun.runtimeconfig.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\bin\Debug\net8.0\LabGun.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\bin\Debug\net8.0\LabGun.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\obj\Debug\net8.0\LabGun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\obj\Debug\net8.0\LabGun.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\obj\Debug\net8.0\LabGun.AssemblyInfo.cs
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\obj\Debug\net8.0\LabGun.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\obj\Debug\net8.0\LabGun.sourcelink.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\obj\Debug\net8.0\LabGun.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\obj\Debug\net8.0\refint\LabGun.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\obj\Debug\net8.0\LabGun.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\obj\Debug\net8.0\LabGun.genruntimeconfig.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\LabGun\LabGun\obj\Debug\net8.0\ref\LabGun.dll
