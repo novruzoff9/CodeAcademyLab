@@ -44,7 +44,7 @@ public class Gun
             {
                 throw new Exception("Hazırki güllə sayı mənfi ola bilməz");
             }
-            else if(value > this.MagazineSize) 
+            else if (value > this.MagazineSize)
             {
                 throw new Exception("Gulle sayi magazin tutumundan çox ola bilməz");
             }
@@ -94,5 +94,8 @@ public class Gun
         this.CurrentBullet = this.MagazineSize;
     }
 
-    public virtual void CustomizeGun();
+    public virtual void CustomizeGun()
+    {
+        Console.WriteLine("Base Customize");
+    }
 }

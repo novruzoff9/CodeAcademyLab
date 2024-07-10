@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabGun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+181288f20b3acda9083155b2bf5eaacdab5c890c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6959d79026736e9a2d8c38e69226619d78c4e706")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabGun")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabGun")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

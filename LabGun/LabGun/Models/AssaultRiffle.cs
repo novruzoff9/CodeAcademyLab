@@ -9,12 +9,13 @@ namespace LabGun.Models;
 public class AssaultRiffle : Gun
 {
     public double RecoilRate { get; set; }
+
     public override void CustomizeGun()
     {
         Console.WriteLine(
-            "Silaha artırmaq istədiyiniz Eklentini seçin\n:" +
+            "Silaha artırmaq istədiyiniz Eklentini seçin:\n" +
             "1. Scope\n" +
-            "2. Mag\n"
+            "2. Grip\n"
             );
 
         int attachmenttype = Convert.ToInt32(Console.ReadLine());
@@ -22,7 +23,7 @@ public class AssaultRiffle : Gun
         if (attachmenttype == 1)
         {
             Console.WriteLine(
-            "Silaha artırmaq istədiyiniz Scope-u seçin\n:" +
+            "Silaha artırmaq istədiyiniz Scope-u seçin:\n" +
             "1. ACOG\n" +
             "2. MILLIMETER SCANNER\n"
             );
@@ -31,11 +32,11 @@ public class AssaultRiffle : Gun
 
             if (selectcedattachment == 1)
             {
-                Console.WriteLine("Daha uzunu goreceksen");
+                Console.WriteLine("Dusmeni daha rahat secirsen");
             }
             else if (selectcedattachment == 2)
             {
-                Console.WriteLine("Enemy-ni daha rahat secessen");
+                Console.WriteLine("Divar arxasi goreceksen");
             }
         }
 
