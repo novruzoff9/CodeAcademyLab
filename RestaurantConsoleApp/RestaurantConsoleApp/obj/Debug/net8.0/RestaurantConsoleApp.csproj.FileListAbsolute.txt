@@ -1,0 +1,15 @@
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\obj\Debug\net8.0\RestaurantConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\obj\Debug\net8.0\RestaurantConsoleApp.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\obj\Debug\net8.0\RestaurantConsoleApp.AssemblyInfo.cs
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\obj\Debug\net8.0\RestaurantConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\obj\Debug\net8.0\RestaurantConsoleApp.sourcelink.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\bin\Debug\net8.0\RestaurantConsoleApp.exe
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\bin\Debug\net8.0\RestaurantConsoleApp.deps.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\bin\Debug\net8.0\RestaurantConsoleApp.runtimeconfig.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\bin\Debug\net8.0\RestaurantConsoleApp.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\bin\Debug\net8.0\RestaurantConsoleApp.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\obj\Debug\net8.0\RestaurantConsoleApp.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\obj\Debug\net8.0\refint\RestaurantConsoleApp.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\obj\Debug\net8.0\RestaurantConsoleApp.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\obj\Debug\net8.0\RestaurantConsoleApp.genruntimeconfig.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\RestaurantConsoleApp\RestaurantConsoleApp\obj\Debug\net8.0\ref\RestaurantConsoleApp.dll
