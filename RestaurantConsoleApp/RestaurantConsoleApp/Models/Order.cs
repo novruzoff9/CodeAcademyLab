@@ -18,14 +18,6 @@ public class Order
 
     public static List<Order> AllOrders = new List<Order>();
 
-    public static void AddOrder(List<Dish> dishes)
-    {
-        int newid = AllOrders.Last().OrderId;
-        Order neworder = new Order(newid);
-        neworder.Dishes = dishes;
-        neworder.TotalAmount = RestaurantMethods.GetSumofPrice(dishes);
-
-        AllOrders.Add(neworder);
-    }
+    
 
 }

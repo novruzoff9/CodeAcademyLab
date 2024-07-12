@@ -21,8 +21,5 @@ public class Dish
 
     public static List<Dish> AllDishes = new List<Dish>();
 
-    public static List<Dish> GetDishesByCategory(Category category)
-    {
-        return AllDishes.Where(x => x.Category == category).ToList();
-    }
+    
 }

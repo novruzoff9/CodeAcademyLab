@@ -1,4 +1,5 @@
-﻿using RestaurantConsoleApp.Models;
+﻿using RestaurantConsoleApp.BusinessLogic;
+using RestaurantConsoleApp.Models;
 
 namespace RestaurantConsoleApp;
 
@@ -42,7 +43,7 @@ internal class Program
         {
             Console.WriteLine($"{category.Name} qidaları:");
             List<Dish> categorydishes = new List<Dish>();
-            categorydishes = Dish.GetDishesByCategory(category);
+            categorydishes = DishService.GetDishesByCategory(category);
             foreach (var dish in categorydishes)
             {
                 Console.WriteLine($"{dish.DishId}. {dish.Name} - {dish.Price}");
