@@ -18,6 +18,4 @@ public class Order
 
     public static List<Order> AllOrders = new List<Order>();
 
-    
-
 }
