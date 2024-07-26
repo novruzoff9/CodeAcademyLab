@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdoGenericService/1.0.2": {
+        "runtime": {
+          "AdoGenericService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdoGenericService/1.0.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

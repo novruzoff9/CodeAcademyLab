@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<Version>1.0.2</Version>
+	  <Description>
+		  Update updated
+	  </Description>
+	  <Authors>
+		  Novruzoff
+	  </Authors>
+	  <PackageIconUrl>https://cdn4.iconfinder.com/data/icons/superhero/400/deadpool.png</PackageIconUrl>
+  </PropertyGroup>
+
+</Project>

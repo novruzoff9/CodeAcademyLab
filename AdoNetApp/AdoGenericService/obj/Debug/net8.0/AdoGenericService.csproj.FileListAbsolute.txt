@@ -1,0 +1,12 @@
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\bin\Debug\net8.0\AdoGenericService.deps.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\bin\Debug\net8.0\AdoGenericService.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\bin\Debug\net8.0\AdoGenericService.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\obj\Debug\net8.0\AdoGenericService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\obj\Debug\net8.0\AdoGenericService.AssemblyInfoInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\obj\Debug\net8.0\AdoGenericService.AssemblyInfo.cs
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\obj\Debug\net8.0\AdoGenericService.csproj.CoreCompileInputs.cache
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\obj\Debug\net8.0\AdoGenericService.sourcelink.json
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\obj\Debug\net8.0\AdoGenericService.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\obj\Debug\net8.0\refint\AdoGenericService.dll
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\obj\Debug\net8.0\AdoGenericService.pdb
+C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\obj\Debug\net8.0\ref\AdoGenericService.dll
