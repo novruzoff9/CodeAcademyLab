@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace AdoGenericService.Models;
 
+public class PrimaryKeyAttribute : Attribute { }
+
 public class BaseEntity
 {
 

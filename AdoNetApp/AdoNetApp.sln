@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoNetApp", "AdoNetApp\AdoNetApp.csproj", "{57B2F819-2518-44C5-8846-52068C20EB4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoGenericService", "AdoGenericService\AdoGenericService.csproj", "{21A2F292-23BB-4C77-AB3B-D6EFDF132192}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoGenericService", "AdoGenericService\AdoGenericService.csproj", "{21A2F292-23BB-4C77-AB3B-D6EFDF132192}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AdoSetup", "AdoSetup\AdoSetup.vdproj", "{39777CA1-C5C9-45A0-9DEB-4D33276013E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,8 @@ Global
 		{21A2F292-23BB-4C77-AB3B-D6EFDF132192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21A2F292-23BB-4C77-AB3B-D6EFDF132192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21A2F292-23BB-4C77-AB3B-D6EFDF132192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39777CA1-C5C9-45A0-9DEB-4D33276013E7}.Debug|Any CPU.ActiveCfg = Debug
+		{39777CA1-C5C9-45A0-9DEB-4D33276013E7}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

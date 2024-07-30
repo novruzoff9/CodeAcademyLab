@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\AdoNetApp\\AdoGenericService\\AdoGenericService.csproj": {
-      "version": "1.0.2",
+      "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\yagmurgn\\Desktop\\CodeAcademyLab\\AdoNetApp\\AdoGenericService\\AdoGenericService.csproj",
         "projectName": "AdoGenericService",
@@ -50,6 +50,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "PluralizeService.Core": {
+              "target": "Package",
+              "version": "[1.2.21147.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

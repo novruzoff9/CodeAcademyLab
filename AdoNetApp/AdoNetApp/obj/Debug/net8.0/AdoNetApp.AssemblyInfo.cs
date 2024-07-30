@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdoNetApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+736c28dea9a6fe207dd9f6aa1f90b8bb764c3657")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58bab123e2f651d76163391136cf06bae38e71c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdoNetApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdoNetApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

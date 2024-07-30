@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Development": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ConnectionString": "Server=TITAN06\\SQLEXPRESS;database=Northwind;Trusted_Connection=Yes;TrustServerCertificate=True"
+      }
+    }
+  }
+}

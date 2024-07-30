@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdoGenericService</id>
+    <version>1.0.10</version>
+    <authors>Novruzoff</authors>
+    <iconUrl>https://cdn4.iconfinder.com/data/icons/superhero/400/deadpool.png</iconUrl>
+    <description>Get Table Name Updated</description>
+    <repository type="git" commit="58bab123e2f651d76163391136cf06bae38e71c1" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Data.SqlClient" version="5.2.1" exclude="Build,Analyzers" />
+        <dependency id="PluralizeService.Core" version="1.2.21147.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\yagmurgn\Desktop\CodeAcademyLab\AdoNetApp\AdoGenericService\bin\Debug\net8.0\AdoGenericService.dll" target="lib\net8.0\AdoGenericService.dll" />
+  </files>
+</package>

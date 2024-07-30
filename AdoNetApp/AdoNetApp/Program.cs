@@ -1,19 +1,13 @@
 ﻿using AdoGenericService.Services;
 using AdoNetApp.Models;
+using AdoNetApp.Services;
 
-namespace AdoNetApp;
+ConfigurationService.Configure();
 
-internal class Program
-{
-    static void Main(string[] args)
-    {
+Service<Category> catservice = new();
+Service<Shipper> shipservice = new Service<Shipper>();
 
-        Service<Category> catservice = new Service<Category>();
-        Service<Shipper> shipservice = new Service<Shipper>();
+await catservice.Add(new Category { CategoryName = "Trends", Description = "en trendler" });
+//shipservice.Add(new Shipper { CompanyName = "Novruzoff Com."});
 
-        catservice.Add(new Category { CategoryName = "Trends"});
-        shipservice.Add(new Shipper { CompanyName = "Novruzoff Com."});
-
-        catservice.Update(new Category { CategoryName = "Top" });
-    }
-}
+//catservice.Update(new Category { CategoryName = "Top" });
