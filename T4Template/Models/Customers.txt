@@ -1,0 +1,1 @@
+Customers tablosu için SQL'den gelen veriler :)

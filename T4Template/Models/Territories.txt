@@ -1,0 +1,1 @@
+Territories tablosu için SQL'den gelen veriler :)

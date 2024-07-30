@@ -16,23 +16,23 @@ else
 fi
 
 # Metin dosyasını oku ve her satırdaki dizine git
-while IFS= read -r dir; do
-    echo "fdsapifds"
-    # Her dizin yolunun başındaki ve sonundaki boşlukları temizle
-    dir=$(echo "$dir" | xargs)
+# while IFS= read -r dir; do
+#     echo "fdsapifds"
+#     # Her dizin yolunun başındaki ve sonundaki boşlukları temizle
+#     dir=$(echo "$dir" | xargs)
 
-    echo "$dir"
-    # Dizin mevcut mu kontrol et
-    if [ -d "$dir" ]; then
-        echo "Dizin mevcut -> $dir"
+#     echo "$dir"
+#     # Dizin mevcut mu kontrol et
+#     if [ -d "$dir" ]; then
+#         echo "Dizin mevcut -> $dir"
 
-        # Dizin içerisindeki .nupkg dosyalarını taşı
-        find "$dir" -maxdepth 1 -name "*.nupkg" -exec mv {} "$target_dir" \;
-        echo "$dir -> Dizin içerisindeki .nupkg dosyaları taşındı"
-    else
-        echo "Dizin bulunamadı -> $dir"
-    fi
-done < "$file_path"
+#         # Dizin içerisindeki .nupkg dosyalarını taşı
+#         find "$dir" -maxdepth 1 -name "*.nupkg" -exec mv {} "$target_dir" \;
+#         echo "$dir -> Dizin içerisindeki .nupkg dosyaları taşındı"
+#     else
+#         echo "Dizin bulunamadı -> $dir"
+#     fi
+# done < "$file_path"
 
 echo "Taşıma işlemi bitti"
 

@@ -1,4 +1,4 @@
-DECLARE @table NVARCHAR(250) = 'Categories';
+DECLARE @table NVARCHAR(250) = 'Course';
 
 -- Header of the class
 DECLARE @classHeader NVARCHAR(MAX) = 'public class ' + @table + '

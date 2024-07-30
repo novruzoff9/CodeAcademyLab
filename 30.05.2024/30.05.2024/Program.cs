@@ -1,5 +1,5 @@
 ﻿
-oddandEvenarrs();
+sumOfElements();
 
 #region ForTasks
 void minandMax()
