@@ -1,1 +1,0 @@
-Shippers tablosu için SQL'den gelen veriler :)

@@ -1,8 +1,8 @@
-﻿using Pluralize.Core;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.Data.SqlClient;
 using System.Data.SqlTypes;
 using System.Reflection.PortableExecutable;
+using System.Text;
 
 namespace T4Template
 {
@@ -12,19 +12,25 @@ namespace T4Template
         {
 
             string connection = "Server=DESKTOP-ALE5B86;Database=Northwind;Integrated Security=True;";
-            string query = @"DECLARE @table NVARCHAR(250) = '{Categories}';
+            Console.WriteLine(GetTableData("Customers"));
 
--- Header of the class
-DECLARE @classHeader NVARCHAR(MAX) = 'public class ' + @table + '
-{
+
+            string GetTableData(string tableName)
+            {
+                string query = $@"DECLARE @table NVARCHAR(250) = '{tableName}';
+declare @singulartable Nvarchar(250) = '{Singularize(tableName).Replace(" ", "")}';
+
+            -- Header of the class
+            DECLARE @classHeader NVARCHAR(MAX) = 'public class ' + @singulartable + '
+{{
 ';
 
 -- Footer of the class
 DECLARE @classFooter NVARCHAR(MAX) = '
-}';
+}}';
 
 -- Query to generate the properties
-    DECLARE @properties NVARCHAR(MAX) = (
+DECLARE @properties NVARCHAR(MAX) = (
 SELECT STRING_AGG(CONCAT(
 ' public ',
 IIF(DATA_TYPE = 'nvarchar', 'string' + IIF(IS_NULLABLE = 'YES', '?', ''), ''),
@@ -44,7 +50,7 @@ IIF(DATA_TYPE = 'datetime2', 'DateTime' + IIF(IS_NULLABLE = 'YES', '?', ''), '')
 IIF(DATA_TYPE = 'image', 'byte[]' + IIF(IS_NULLABLE = 'YES', '?', ''), ''),
 ' ',
 COLUMN_NAME,
-' { get; set; }',
+' {{ get; set; }}',
 IIF((DATA_TYPE = 'nvarchar' OR DATA_TYPE = 'nchar') AND IS_NULLABLE = 'NO', ' = null!;', ''),
 CHAR(13), CHAR(10)
 ), '') AS properties
@@ -60,13 +66,54 @@ DECLARE @classDefinition NVARCHAR(MAX) = @classHeader + @properties + @classFoot
 SELECT @classDefinition;";
 
 
-            using SqlConnection con = new SqlConnection(connection);
-            using SqlCommand cmd = new SqlCommand(query, con);
-            con.Open();
-            var d = cmd.ExecuteScalar();
-            Console.WriteLine(d);
 
-            con.Close();
+                SqlConnection con = new SqlConnection(connection);
+                SqlCommand cmd = new SqlCommand(query, con);
+                con.Open();
+
+
+                var d = cmd.ExecuteScalar();
+                con.Close();
+
+
+                return $"{HocaninObsessifligiIcin(d.ToString())}";
+
+            }
+
+            string HocaninObsessifligiIcin(string input)
+            {
+                var lines = input.Split(new[] { "\r\n", "\r", "\n" }, StringSplitOptions.None);
+                StringBuilder obsessiflik = new();
+
+                foreach (var line in lines)
+                {
+                    obsessiflik.Append(new string(' ', 4));
+                    obsessiflik.AppendLine(line);
+                }
+                return obsessiflik.ToString();
+            }
+        
+            string Singularize(string plural)
+            {
+                string singular = plural switch
+                {
+                    "Employees" => "Employee",
+                    "Categories" => "Category",
+                    "Customers" => "Customer",
+                    "Shippers" => "Shipper",
+                    "Suppliers" => "Supplier",
+                    "Orders" => "Order",
+                    "Products" => "Product",
+                    "Order Details" => "Order Detail",
+                    "CustomerCustomerDemo" => "CustomerCustomerDemo",
+                    "CustomerDemographics" => "CustomerDemographic",
+                    "Region" => "Region",
+                    "Territories" => "Territory",
+                    "EmployeeTerritories" => "EmployeeTerritory",
+                    _ => plural
+                };
+                return singular;
+            }
         }
     }
 }

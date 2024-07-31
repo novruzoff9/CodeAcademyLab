@@ -1,1 +1,0 @@
-CustomerDemographics tablosu için SQL'den gelen veriler :)

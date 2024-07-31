@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("T4Template")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bdcd878578280fc51ff3a88344fcce14454daca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ff29343a9e9ca8a636ce00ab594b87b64c2c1ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("T4Template")]
 [assembly: System.Reflection.AssemblyTitleAttribute("T4Template")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

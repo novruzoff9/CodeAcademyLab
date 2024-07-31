@@ -1,1 +1,14 @@
-﻿ErrorGeneratingOutput
+﻿
+Created file for table: Employees
+Created file for table: Categories
+Created file for table: Customers
+Created file for table: Shippers
+Created file for table: Suppliers
+Created file for table: Orders
+Created file for table: Products
+Created file for table: Order Details
+Created file for table: CustomerCustomerDemo
+Created file for table: CustomerDemographics
+Created file for table: Region
+Created file for table: Territories
+Created file for table: EmployeeTerritories
